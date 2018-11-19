@@ -1,0 +1,7 @@
+{
+  "name": "go-rest-api",
+  "description": "Simple RestAPI in GoLang",
+  "keywords": ["go", "rest", "restful", "api"],
+  "website": "http://github.com/matalmeida/rest-api",
+  "repository": "http://github.com/matalmeida/rest-api"
+}

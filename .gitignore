@@ -1,0 +1,6 @@
+*
+!/**/
+!*.*
+!Procfile
+vendor/*
+!vendor/vendor.json
